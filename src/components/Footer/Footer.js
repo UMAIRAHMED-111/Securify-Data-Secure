@@ -23,10 +23,10 @@ function Footer() {
 					<FooterColumn id="footerLogo">
 						<FooterLogo to="/">
 							<SocialIcon src="./assets/logo.png" />
-							Delta
+							Securify
 						</FooterLogo>
 						<FooterAddress>
-							101 Street, ABC Building, DE Road, XY City 123
+							
 						</FooterAddress>
 
 						<Row align="center" margin="auto  0 0 0" gap="1rem">
@@ -53,7 +53,7 @@ function Footer() {
 						</FooterLinkItems>
 					))}
 				</FooterGrid>
-				<FooterRights>Developed by Umair Ahmed © 2021</FooterRights>
+				<FooterRights></FooterRights>
 			</FooterWrapper>
 		</Section>
 	);

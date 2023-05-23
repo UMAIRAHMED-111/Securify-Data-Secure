@@ -29,7 +29,7 @@ function Pricing() {
 						color="white"
 						align="center"
 					>
-						Create, maintain and store your data with Delta.
+						Create, maintain and store your data with Securify.
 					</TextWrapper>
 					<PricingContainer>
 						{pricingData.map((card, index) => (
